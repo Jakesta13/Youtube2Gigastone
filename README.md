@@ -8,6 +8,7 @@ This uses [Youtube-DL](https://rg3.github.io/youtube-dl/) for downloading the vi
 
 * Drop this script somewhere, make it executeable.
 * Configure the settings inside the script.
+* Connect EITHER via WiFi or Ethernet to the Gigastone (Ethernet is faster).
 * In the folder of your choosing on the Gigastone device, create a file called "list.txt" and add YouTube Video links at one per line.
 * Run it and make a hot beverage, or go to bed .. either one -- duration depends on internet speed and download size.
 
