@@ -14,7 +14,7 @@ This uses [Youtube-DL](https://rg3.github.io/youtube-dl/) for downloading the vi
 ## Dependancies
 * NCFTP
 * [Youtube-dl](https://rg3.github.io/youtube-dl/) - Keep this updated.
-* Optional - IFTTT account, for HTTP requested notifications, disable it via commening the line out, is explained in script.
+* Optional - [IFTTT](http://ifttt.com) account, for HTTP requested notifications, disable it via commening the line out, is explained in script.
 
 ## Notice
 Please keep in mind that if you are running this on a Raspberry Pi it is a really good idea to run it anywhere EXCEPT the SDcard,
