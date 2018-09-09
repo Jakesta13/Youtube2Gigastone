@@ -18,12 +18,9 @@ This uses [Youtube-DL](https://rg3.github.io/youtube-dl/) for downloading the vi
 
 ## Notice
 Please keep in mind that if you are running this on a Raspberry Pi it is a really good idea to run it anywhere EXCEPT the SDcard,
-
 this script does a lot of write and deletes (Downloading videos, then deletes them after they are moved).
 
 
 The gigastone has a "Security Feature" where the usernames and passwords are spoken over plain-text, I found them out via sniffing for traffic to and
-
 from their app to connect to it offically, it runs a Telnet and and FTP server.
-
 As long as your wireless hotspot password set in the Gigastone device is strong, this shouldn't be too much of a problem. -- This script uses this "Feature" to upload/download over ftp to the device.
