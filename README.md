@@ -21,6 +21,8 @@ This uses [Youtube-DL](https://rg3.github.io/youtube-dl/) for downloading the vi
 Please keep in mind that if you are running this on a Raspberry Pi it is a really good idea to run it anywhere EXCEPT the SDcard,
 this script does a lot of write and deletes (Downloading videos, then deletes them after they are moved).
 
+## To-Do
+* add disable option for IFTTT compatibility rather than having to comment it out manually to disable.
 
 The gigastone has a "Security Feature" where the usernames and passwords are spoken over plain-text, I found them out via sniffing for traffic to and
 from their app to connect to it offically, it runs a Telnet and and FTP server.
